@@ -143,7 +143,7 @@ import {
       iconBg: "#E6DEDD",
       date: "March 2022 - Present",
       points: [
-        "Customer service · Telecommunications, I did a chagne of campaign to Technical support floor (Actually)",
+        "Customer service · Telecommunications, I did a change of campaign to Technical floor support (Actually)",
       ],
     },
   ];
